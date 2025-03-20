@@ -19,7 +19,7 @@ En esta pequeña seccion doy a conocer algunas de mis habilidades y tecnologias 
 - **Bases de Datos**: MySQL.
 - **Control de Versiones**: Git, GitHub.
 - **Maquinas Virtuales**: Oracle VM VirtualBox
-- **Otros**: Me soy alguien que le gusta converzaciónes interesantes que abarquen muchos temas y los videojuegos.
+- **Otros**: Soy alguien que le gusta converzaciónes interesantes que abarquen muchos temas y los videojuegos.
 
 <!--## Proyectos Destacados
 
