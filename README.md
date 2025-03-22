@@ -34,7 +34,7 @@ En esta pequeña seccion doy a conocer algunas de mis habilidades y tecnologias 
 - 💼 **LinkedIn**: [Ian González en Linkenid](https://www.linkedin.com/in/ian-gonzález-osses/)
 - 📁 **Portafolios**: Actualmente en construcción...
 
-## Actividad Reciente
+<!--## Actividad Reciente-->
 <!--RECENT_ACTYVITY:start-->
 <!--RECENT_ACTYVITY:last_update-->
 
