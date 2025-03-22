@@ -34,6 +34,10 @@ En esta pequeña seccion doy a conocer algunas de mis habilidades y tecnologias 
 - 💼 **LinkedIn**: [Ian González en Linkenid](https://www.linkedin.com/in/ian-gonzález-osses/)
 - 📁 **Portafolios**: Actualmente en construcción...
 
+## Actividad Reciente
+<!--RECENT_ACTYVITY:START-->
+<!--RECENT_ACTYVITY:last_update-->
+
 ## 📊 Mi actividad en GitHub  
 
 ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Kaents&show_icons=true&theme=tokyonight)
