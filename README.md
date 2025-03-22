@@ -35,7 +35,7 @@ En esta pequeña seccion doy a conocer algunas de mis habilidades y tecnologias 
 - 📁 **Portafolios**: Actualmente en construcción...
 
 ## Actividad Reciente
-<!--RECENT_ACTYVITY:START-->
+<!--RECENT_ACTYVITY:start-->
 <!--RECENT_ACTYVITY:last_update-->
 
 ## 📊 Mi actividad en GitHub  
