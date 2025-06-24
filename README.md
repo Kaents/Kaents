@@ -14,7 +14,7 @@
 
 En esta pequeña seccion doy a conocer algunas de mis habilidades y tecnologias que me gusta usar.
 
-- **Lenguajes**: Python, C++, JavaScript.
+- **Lenguajes**: Python, JavaScript.
 - **Desarrollo Videojuegos**: Unity, Unreal Engine.
 - **Bases de Datos**: MySQL.
 - **Control de Versiones**: Git, GitHub.
