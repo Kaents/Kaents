@@ -32,7 +32,7 @@ En esta pequeña seccion doy a conocer algunas de mis habilidades y tecnologias 
 
 - 📧 **Email**: [ian.fgo15.7@gmail.com](mailto:ian.fgo15.7@gmail.com)
 - 💼 **LinkedIn**: [Ian González en Linkenid](https://www.linkedin.com/in/ian-gonzález-osses/)
-- 📁 **Portafolios**: Actualmente en construcción...
+- 📁 **Portafolios**: [Portafolio Ian Gonzaález Osses](https://kaents.github.io/Portafolio-Ian-Gonzalez/)
 
 <!--## Actividad Reciente-->
 <!--RECENT_ACTYVITY:start-->
