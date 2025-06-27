@@ -7,7 +7,7 @@
 - 🎓 **Educación**: Mecanica Industrial Maquinas Herramientas - Analisis y Programación de Sistemas.
 - 📍 **País**: Chile
 - 💼 **Trabajo actual**: Buscando nuevos retos y oportunidades de desarrollo.
-- 📚 **Estudiando actualmente**: Python, C++, Administración de Servidores, Unity, Unreal Engine.
+- 📚 **Estudiando actualmente**: Python, Administración de Servidores, desarrollo de software y Unreal Engine.
 - 🎮 **Curiosidad de mi**: Le llamo come horas al ARK porque cada vez que juego siento que pasa 1 hora y han pasado 4.
 
 ## Habilidades y Tecnologias
